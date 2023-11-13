@@ -46,6 +46,7 @@ I've created a few learning projects for myself, one of them is a [yacht-club](h
 
 ## **English**
 My level of English is Intermediate (B1) - confirmed in an online test [](www.efset.org)
+
 ![efset test result](efset-test_result.png)
 
 I had English practice when traveling abroad, usually communicating on everyday and casual general topics
