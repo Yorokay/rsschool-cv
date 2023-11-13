@@ -35,4 +35,4 @@ function spinAround(turns) {
 }
 ```
 ## **Experience**
-I've created a few learning projects for myself, one of them is a [yacht-club](https://yorokay.github.io/yacht-club/) I created while taking a course at HTML Academy
+I've created a few learning projects for myself, one of them is a [yacht-club](https://yorokay.github.io/yacht-club/) I created while taking a course at *HTML Academy*
