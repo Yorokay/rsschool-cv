@@ -3,7 +3,7 @@
 ## **Contacts**
 - **E-mail:** yorokay05110@mail.ru
 - **Discord** @yorokay
-- **Git-hub** @Yorokay
+- **Git-hub** @yorokay
 
 ## **About me**
 At the moment my goal is to successfully complete the course from RS School, and become a confident JS/FE developer.
