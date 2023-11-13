@@ -36,3 +36,10 @@ function spinAround(turns) {
 ```
 ## **Experience**
 I've created a few learning projects for myself, one of them is a [yacht-club](https://yorokay.github.io/yacht-club/) I created while taking a course at *HTML Academy*
+
+## **Education**
+- **University:** Murmansk State Technical University 
+- **Courses:** 
+	- [learnjavascript](https://learn.javascript.ru/)
+	- [w3schools](https://www.w3schools.com/)
+	- [HTML Academy](https://www.htmlacademy.ru)
